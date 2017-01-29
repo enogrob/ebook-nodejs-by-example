@@ -18,15 +18,125 @@ Solution Integrator Experienced - Certified by Ericsson
 ## Contents
 
 ```
-[ ] 1: NODE.JS FUNDAMENTALS
-[ ] 2: ARCHITECTING THE PROJECT
-[ ] 3: MANAGING ASSETS
-[ ] 4: DEVELOPING THE MODEL-VIEW-CONTROLLER LAYERS
-[ ] 5: MANAGING USERS
-[ ] 6: ADDING FRIENDSHIP CAPABILITIES
-[ ] 7: POSTING CONTENT
-[ ] 8: CREATING PAGES AND EVENTS
-[ ] 9: TAGGING, SHARING, AND LIKING
-[ ] 10: ADDING REAL-TIME CHAT
-[ ] 11: TESTING THE USER INTERFACE
+Preface v
+Chapter 1: Node.js Fundamentals
+[x] Understanding the Node.js architecture
+[x] Installing Node.js
+[x] Running Node.js server
+[x] Defining and using modules
+[x] Managing and distributing packages
+[x] Creating a module
+[x] Using modules
+[x] Updating our module
+[x] Introducing built-in modules
+[x] Creating a server with the HTTP module
+[x] Reading and writing to files
+[x] Working with events
+[x] Managing child processes
+[x] Summary
+Chapter 2: Architecting the Project
+[ ] Introducing the basic layers of the application
+[ ] The task runner and building system
+[ ] Introducing Grunt
+[ ] Discovering Gulp
+[ ] Test-driven development
+[ ] The Model-View-Controller pattern
+[ ] Introducing the REST API concept
+[ ] Summary
+Chapter 3: Managing Assets
+[ ] Serving files with Node.js
+[ ] CSS preprocessing
+[ ] Packing client-side JavaScript
+[ ] Concatenating with Gulp
+[ ] Modularity in the browser with RequireJS
+[ ] Moving from Node.js to the browser with Browserify
+[ ] Delivering HTML templates
+[ ] Defining the templates in script tags
+[ ] Loading the template externally
+[ ] Writing HTML inside the JavaScript
+[ ] Precompiling templates
+[ ] Summary
+Chapter 4: Developing the Model-View-Controller Layers
+[ ] Evolving the current setup
+[ ] Directory structure
+[ ] Forming the main server handlers
+[ ] Implementing the router
+[ ] Introducing Ractive.js
+[ ] Constructing the entry point of the application
+[ ] Defining a controller
+[ ] Managing our views
+[ ] Creating a model
+[ ] Summary
+Chapter 5: Managing Users
+[ ] Working with the MongoDB database
+[ ] Installing MongoDB
+[ ] Running MongoDB
+[ ] Connecting to the database server
+[ ] Extending the code from the previous chapter
+[ ] Updating our base model class
+[ ] Updating page navigation and routing
+[ ] Registering a new user
+[ ] Updating the frontend
+[ ] Updating the backend API
+[ ] User authentication with sessions
+[ ] Managing a user's profile
+[ ] Summary
+Chapter 6: Adding Friendship Capabilities
+[ ] Finding friends
+[ ] Adding the search page
+[ ] Writing the model
+[ ] Fetching friends from the database
+[ ] Marking users as friends
+[ ] Displaying the linked users on the Profile page
+[ ] Summary
+Chapter 7: Posting Content
+[ ] Posting and storing text
+[ ] Adding a form to post text messages
+[ ] Introducing the content's model
+[ ] Updating the controller of the home page
+[ ] Storing content in the database
+[ ] Showing the user's feed
+[ ] Posting files
+[ ] Summary
+Chapter 8: Creating Pages and Events
+[ ] Refactoring the API
+[ ] Adding a form to create pages
+[ ] Creating a record in the database
+[ ] Showing the currently added pages
+[ ] Showing a specifc page
+[ ] Posting a comment to a page
+[ ] Showing the comments
+[ ] Managing events attached to a particular page
+[ ] Summary
+Chapter 9: Tagging, Sharing, and Liking
+[ ] Selecting friends and sending their IDs to the backend
+[ ] Storing the tagged users and displaying them in the user's feed
+[ ] Sharing a post
+[ ] Liking posts and counting the number of likes
+[ ] Showing the number of likes
+[ ] Summary
+Chapter 10: Adding Real-time Chat
+[ ] Getting to know WebSockets
+[ ] Bringing Socket.IO to the project
+[ ] Preparing the UI of the chat area
+[ ] Exchanging messages between the client and the server
+[ ] Sending messages to the user's friends only
+[ ] Customizing the output of the chat
+[ ] Summary
+Chapter 11: Testing the User Interface
+[ ] Introducing the basic testing toolset
+[ ] The testing framework
+[ ] The assertion library
+[ ] Runner
+[ ] Preparing our project to run tests
+[ ] Running our test with PhantomJS
+[ ] Testing user registration
+[ ] Simulating user interaction
+[ ] Filling and submitting the registration form
+[ ] Tweaking the code's execution order
+[ ] Listening to the form-submitted event
+[ ] Testing with DalekJS
+[ ] Installing DalekJS
+[ ] Using the DalekJS API
+[ ] Summary
 ```
