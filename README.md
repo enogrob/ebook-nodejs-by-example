@@ -35,14 +35,14 @@ Chapter 1: Node.js Fundamentals
 [x] Managing child processes
 [x] Summary
 Chapter 2: Architecting the Project
-[ ] Introducing the basic layers of the application
-[ ] The task runner and building system
-[ ] Introducing Grunt
-[ ] Discovering Gulp
-[ ] Test-driven development
-[ ] The Model-View-Controller pattern
-[ ] Introducing the REST API concept
-[ ] Summary
+[x] Introducing the basic layers of the application
+[x] The task runner and building system
+[x] Introducing Grunt
+[x] Discovering Gulp
+[x] Test-driven development
+[x] The Model-View-Controller pattern
+[x] Introducing the REST API concept
+[x] Summary
 Chapter 3: Managing Assets
 [ ] Serving files with Node.js
 [ ] CSS preprocessing
