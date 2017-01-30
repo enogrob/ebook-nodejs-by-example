@@ -44,18 +44,18 @@ Chapter 2: Architecting the Project
 [x] Introducing the REST API concept
 [x] Summary
 Chapter 3: Managing Assets
-[ ] Serving files with Node.js
-[ ] CSS preprocessing
-[ ] Packing client-side JavaScript
-[ ] Concatenating with Gulp
-[ ] Modularity in the browser with RequireJS
-[ ] Moving from Node.js to the browser with Browserify
-[ ] Delivering HTML templates
-[ ] Defining the templates in script tags
-[ ] Loading the template externally
-[ ] Writing HTML inside the JavaScript
-[ ] Precompiling templates
-[ ] Summary
+[x] Serving files with Node.js
+[x] CSS preprocessing
+[x] Packing client-side JavaScript
+[x] Concatenating with Gulp
+[x] Modularity in the browser with RequireJS
+[x] Moving from Node.js to the browser with Browserify
+[x] Delivering HTML templates
+[x] Defining the templates in script tags
+[x] Loading the template externally
+[x] Writing HTML inside the JavaScript
+[x] Precompiling templates
+[x] Summary
 Chapter 4: Developing the Model-View-Controller Layers
 [ ] Evolving the current setup
 [ ] Directory structure

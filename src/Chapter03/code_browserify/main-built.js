@@ -4,5 +4,5 @@ var router = require('./modules/router');
 },{"./modules/ajax":2,"./modules/router":3}],2:[function(require,module,exports){
 module.exports = function() {};
 },{}],3:[function(require,module,exports){
-module.exports=require(2)
-},{"D:\\work\\KrasimirTsonev\\private\\nodejs-book-by-example\\Chapters\\03\\code_browserify\\modules\\ajax.js":2}]},{},[1]);
+arguments[4][2][0].apply(exports,arguments)
+},{"dup":2}]},{},[1]);
