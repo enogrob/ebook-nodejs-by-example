@@ -57,9 +57,9 @@ Chapter 3: Managing Assets
 [x] Precompiling templates
 [x] Summary
 Chapter 4: Developing the Model-View-Controller Layers
-[ ] Evolving the current setup
-[ ] Directory structure
-[ ] Forming the main server handlers
+[x] Evolving the current setup
+[x] Directory structure
+[x] Forming the main server handlers
 [ ] Implementing the router
 [ ] Introducing Ractive.js
 [ ] Constructing the entry point of the application
